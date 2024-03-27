@@ -1,5 +1,4 @@
 # C++ Project Template
----
 
 Welcome to a basic C++ template for your projects! 
 
