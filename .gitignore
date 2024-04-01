@@ -1,9 +1,11 @@
-# git init
+#TODO after cloning repo
+
 # git add -A
-# git commit -m "first commit"
+# git commit -m "First commit"
 # git branch -M main
-# git remote add origin URL
 # git push -u origin main
+
+#Update CMakeLists.txt w/ project name
 
 /build/
 /.vscode/
