@@ -36,11 +36,11 @@ Finally, make sure you have the CMake extension installed in Visual Studio Code 
 
 Once you're ready to make your first commit, you can run the following commands:
 
-'''bash
-# git add -A
-# git commit -m "First commit"
-# git branch -M main
-# git push -u origin main
-'''
+```bash
+git add -A
+git commit -m "First commit"
+git branch -M main
+git push -u origin main
+```
 
 Enjoy!
