@@ -33,3 +33,14 @@ project("YOUR PROJECT NAME HERE" VERSION 0.1.0 LANGUAGES C CXX)
 ```
 
 Finally, make sure you have the CMake extension installed in Visual Studio Code and on your machine. If those are set up, use the build, run, and debug options on the bottom status bar to develop your project!
+
+Once you're ready to make your first commit, you can run the following commands:
+
+'''bash
+# git add -A
+# git commit -m "First commit"
+# git branch -M main
+# git push -u origin main
+'''
+
+Enjoy!
